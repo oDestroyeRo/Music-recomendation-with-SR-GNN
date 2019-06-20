@@ -1,2 +1,4 @@
 datasets/lastfm1_4/
 datasets/lastfm1_64/
+.DS_Store
+.vscode
